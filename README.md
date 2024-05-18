@@ -2,7 +2,7 @@
 - 👀 I’m interested in science & technology
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on Artificial Intelligence
-- 📫 You can find me on Instagram, X ( Twitter ) & Linkedin [ links apear on my github profile ]
+- 📫 You can find me on Instagram, X ( Twitter ) & Linkedin [ links appear on my github profile ]
 - 😄 Hobby : Reading Books
 - ⚡ Fun fact: I'm Funny, HAHA
 
