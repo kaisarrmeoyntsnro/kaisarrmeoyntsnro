@@ -1,12 +1,13 @@
 <h1 align="center">Hi there, I'm Mey! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=100&lines=Bitcoin+enthusiast+%F0%9F%92%B0;Tech+Explorer+%F0%9F%94%A8;Fantasy+Dreamer+%F0%9F%A7%9C%E2%80%8D%E2%99%80%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=029" alt="Bitcoin Logo" width="24" />
+  <b>Bitcoin enthusiast</b> &bull; <b>Tech Explorer</b>
 </p>
 
 ---
 
-### About Me
+## About Me
 
 - **Name**: Kaisar Romeo Yontsunaro de Witjaksono (Call me Mey!)
 - **Birthday**: March 3, 2005
@@ -15,41 +16,41 @@
 
 ---
 
-### My Tech Stack
+## My Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=bitcoin" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
 </p>
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaisarrmeoyntsnro&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaisarrmeoyntsnro&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kaisarrmeoyntsnro&theme=tokyonight" width="95%" />
 </p>
 
 ---
 
-### Contact Me
+## Contact Me
 
-<p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=algolia&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=USERNAME_KAMU&theme=github" />
+<p>
+  <a href="mailto:yontsunaro@yahoo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kaisarrmeoyntsnro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/kaisarrmeoydw">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
